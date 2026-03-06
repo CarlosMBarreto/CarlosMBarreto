@@ -58,8 +58,6 @@ Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](carluseduardobarreto@gmail.com)
-
 [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/c_.barreto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/carlos-eduardo-133899316)
