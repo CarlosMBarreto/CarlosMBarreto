@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:203a43&section=header"/>
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://www.pngall.com/wp-content/uploads/15/Hollow-Knight-PNG-Images-HD.png"/>
+  <img height="150" src="https://www.pngall.com/wp-content/uploads/15/Hollow-Knight-PNG-Images-HD.png"/>
 </div>
 
 <div align="center">
@@ -14,9 +14,9 @@
 <br>
 Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 <br>
-🎓 Bacharelado em Ciência da Computação | FURB
+🎓 Bachelor in Computer Science | FURB
 <br>
-💻 Técnico em Desenvolvimento de Sistemas | SENAI/SC
+💻 Systems Development Technician | SENAI/SC
 </samp>
 
 </div>
@@ -25,14 +25,14 @@ Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=7F9F7F&center=true&width=800&lines=I'm+brazillian;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Eu+amo+programa%C3%A7%C3%A3o+e+tecnologia;Seja+bem-vindo!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=4FC3F7&center=true&width=800&lines=Brazilian+Computer+Science+Student;Java+Developer;Web+Development+Enthusiast;Passionate+about+Programming+and+Technology;Technology+Lover;Welcome+to+my+GitHub!"/>
 
 </div>
 
-<br>
-
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMBarreto&theme=zenburn"/>
+
+<img src="https://streak-stats.demolab.com?user=CarlosMBarreto&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br>
@@ -52,15 +52,15 @@ Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 <br>
 
 <details align="center">
-<summary><b>Mais Informações</b></summary>
+<summary><b>More Information</b></summary>
 
 <br>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/c_.barreto)
+[![Instagram](https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c_.barreto)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/carlos-eduardo-mohr-barreto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-eduardo-mohr-barreto)
 
 </div>
 
@@ -69,9 +69,9 @@ Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=CarlosMBarreto&style=flat-square&color=123845"/>
+<img src="https://komarev.com/ghpvc/?username=CarlosMBarreto&style=flat-square&color=4FC3F7"/>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/># CarlosMBarreto
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:203a43&section=footer"/>
