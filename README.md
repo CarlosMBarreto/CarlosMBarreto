@@ -60,7 +60,7 @@ Hi! I'm <b>Carlos Eduardo Mohr Barreto</b>
 
 [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/c_.barreto)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/carlos-eduardo-133899316)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/carlos-eduardo-mohr-barreto)
 
 </div>
 
